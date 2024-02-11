@@ -5,6 +5,16 @@
     box-sizing: border-box;
 }
 
+.logo-container {
+    text-align: left;
+    padding-left: 20px;
+}
+
+.logo-container img {
+    height: 100px; /* Adjust based on your logo's dimensions */
+    width: auto;
+}
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #333;
